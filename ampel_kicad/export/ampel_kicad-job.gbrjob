@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "9.0.7"
     },
-    "CreationDate": "2026-03-09T09:26:12+01:00"
+    "CreationDate": "2026-05-12T17:19:37+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "ampel_v1",
-      "GUID": "616d7065-6c5f-4763-912e-6b696361645f",
+      "Name": "ampel_kicad",
+      "GUID": "616d7065-6c5f-46b6-9963-61642e6b6963",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,37 +34,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "ampel_v1-F_Cu.gbr",
+      "Path": "ampel_kicad-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ampel_v1-B_Cu.gbr",
+      "Path": "ampel_kicad-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ampel_v1-F_Silkscreen.gbr",
+      "Path": "ampel_kicad-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ampel_v1-B_Silkscreen.gbr",
+      "Path": "ampel_kicad-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ampel_v1-F_Mask.gbr",
+      "Path": "ampel_kicad-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ampel_v1-B_Mask.gbr",
+      "Path": "ampel_kicad-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ampel_v1-Edge_Cuts.gbr",
+      "Path": "ampel_kicad-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
